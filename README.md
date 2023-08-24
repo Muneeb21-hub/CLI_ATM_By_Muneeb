@@ -49,12 +49,5 @@ Feel free to explore the code and customize it as you see fit. You can extend th
 
 ## Author
 
-[Your Name]
+[Muneeb u Rehman]
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Replace `[Your Name]` with your actual name or username. Also, make sure to include the appropriate license file (`LICENSE`) in your project directory.
