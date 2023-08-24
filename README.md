@@ -23,7 +23,7 @@ Welcome to the ATM Console Application! This program simulates an ATM where user
 5. Start the ATM application by running the following command:
 
    ```sh
-  tsc AtmMachine.ts node AtmMachine.js
+    tsc AtmMachine.ts node AtmMachine.js
    ```
 
 6. Follow the prompts to enter your user ID and PIN.
